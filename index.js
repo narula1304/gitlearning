@@ -14,3 +14,7 @@ function sayhello(){
 function saybye(){
     console.log("bye")
 }
+
+function saygoog(){
+    console.log("good")
+}
