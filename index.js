@@ -6,3 +6,7 @@ const lastname = "narula"
 function sayname() {
     console.log(`my name is ${names}`)
 }
+
+function sayhello(){
+    console.log("hello")
+}
