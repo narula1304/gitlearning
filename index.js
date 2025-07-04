@@ -10,3 +10,7 @@ function sayname() {
 function sayhello(){
     console.log("hello")
 }
+
+function saybye(){
+    console.log("bye")
+}
